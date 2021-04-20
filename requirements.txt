@@ -1,2 +1,7 @@
 # required files
+# main modules of opencv
 opencv-python
+# main modules with contrib modules
+opencv-contrib-python
+# for notebooks
+jupyter

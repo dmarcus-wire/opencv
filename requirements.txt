@@ -5,3 +5,5 @@ opencv-python
 opencv-contrib-python
 # for notebooks
 jupyter
+# for notebook plotting
+matplotlib
